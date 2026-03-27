@@ -1,4 +1,3 @@
-/* token.h */
 
 typedef enum {
         EOL=0,
@@ -7,7 +6,7 @@ typedef enum {
         MINUS,       
         TIMES,       
         DIV,         
-        ERROR,       
+        ERROR,  
 } token_t;
 
 
